@@ -2,10 +2,10 @@
 <h3 align="center">Information Systems Student | Aspiring Software Engineer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="www.linkedin.com/in/hsu-yati-ko">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:hsuyatiko7979@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
   </a>
 </p>
