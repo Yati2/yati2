@@ -1,4 +1,4 @@
-<h1 align="center">Helloo 👋, I'm Sue</h1>
+<h1 align="center">Hellooo, I'm Sue</h1>
 <h3 align="center">Information Systems Student | Aspiring Software Engineer</h3>
 
 <p align="center">
@@ -12,14 +12,14 @@
 
 ---
 
-### ✨ About Me
+### About Me
 - 🎓 Year 3 Information Systems student at **SMU**
 - 💡 Interested in **Software Engineering, Data Engineering & AI**
 - 🚀 I enjoy working on meaningful and fun projects
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 **Languages**
 
