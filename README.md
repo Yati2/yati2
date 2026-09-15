@@ -13,7 +13,7 @@
 ---
 
 ### About Me
-- 🎓 Year 3 Information Systems student at **SMU**
+- 🎓 Year 4 Information Systems student at **SMU**
 - 💡 Interested in **Software Engineering, Data Engineering & AI**
 - 🚀 I enjoy working on meaningful and fun projects
 
